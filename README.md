@@ -38,7 +38,7 @@ styles.css → Styling file
 script.js → Editor functionality
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
